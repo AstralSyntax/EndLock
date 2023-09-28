@@ -1,0 +1,1 @@
+function endlock:ray/cast
